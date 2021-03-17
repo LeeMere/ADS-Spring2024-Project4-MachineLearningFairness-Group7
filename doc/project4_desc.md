@@ -1,4 +1,4 @@
-### GR5243 Fall 2020 Applied Data Science
+### GR5243 Spring 2021 Applied Data Science
 ### Project 4 Causal Inference Algorithms Evaluation
 
 In this project, working in teams, you will implement, evaluate and **compare** algorithms for **Causal Inference**.
@@ -20,9 +20,9 @@ All developments need to be carried out in group-shared private repo on [https:/
 
 Each week, we will give a tutorial in class and having live discussion and brainstorm sessions. The instruction team will join team discussions during class and online. 
 
-- week 1 [Nov 4]: Introduction and project description.
-- week 2 [Nov 11]: Introduction to Causal Inference; Q&A.
-- week 3 [Nov 18]: Discussion of assigned algorithms.
+- week 1 [Mar 17]: Introduction and project description.
+- week 2 [Mar 24]: Introduction to Causal Inference; Q&A.
+- week 3 [Mar 31]: Discussion of assigned algorithms.
 
 #### Evaluation criteria 
 
