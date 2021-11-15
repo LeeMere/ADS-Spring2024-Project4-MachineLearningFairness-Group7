@@ -1,8 +1,8 @@
-# Project 4: Causal Inference
+# Project 4: Machine Learning Fairness
 
 ### [Project Description](doc/project4_desc.md)
 
-Term: Spring 2021
+Term: Fall 2021
 
 + Team #
 + Projec title: Lorem ipsum dolor sit amet
